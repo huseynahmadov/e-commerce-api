@@ -15,7 +15,6 @@
   - React JS
 - Backend
   - Framework - ExpressJs
-  - View Engine - Handlebars
   - Database ORM - Mongoose (MongoDB)
   - Session Memory
   - Static File Serving
